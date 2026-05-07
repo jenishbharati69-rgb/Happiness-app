@@ -574,7 +574,6 @@ with tab:
         color              = "Continent",
         color_discrete_map = CONTINENT_COLORS,
         hover_data         = ["Country","Year"],
-        trendline          = "lowess",
         trendline_scope    = "trace",
         log_x              = use_logx,
         labels             = {
